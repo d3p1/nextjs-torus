@@ -7,11 +7,9 @@
   "scripts": {
     "format:code": "prettier --ignore-path .gitignore --check src",
     "format:code:fix": "npm run format:code -- --write",
-    "refactor": "npm run format:code:fix && npm run lint:code:fix",
     "dev": "next dev --turbopack",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "next start"
   },
   "repository": {
     "type": "git",
