@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/d3p1/nextjs-torus/compare/v1.1.1...v1.1.2) (2025-11-01)
+
+
+### Bug Fixes
+
+* improve page styles [[#1](https://github.com/d3p1/nextjs-torus/issues/1)] ([7c2e5e2](https://github.com/d3p1/nextjs-torus/commit/7c2e5e2c2e8e2f7d5003173b5db3c81bb1bb4e00))
+
 ## [1.1.1](https://github.com/d3p1/nextjs-torus/compare/v1.1.0...v1.1.1) (2025-11-01)
 
 
