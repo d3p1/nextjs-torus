@@ -4,6 +4,7 @@
  */
 import type {Metadata} from 'next'
 import './globals.css'
+import {Suspense} from 'react'
 
 export const metadata: Metadata = {
   title: 'Next.js | Torus',
@@ -17,7 +18,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="w-screen h-screen bg-black">{children}</body>
+      <body className="w-screen h-screen bg-black text-white">
+        <Suspense>{children}</Suspense>
+      </body>
     </html>
   )
 }
