@@ -18,7 +18,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="w-screen h-screen bg-black text-white">
+      <body className="w-screen h-screen bg-black text-white grid place-items-center">
         <Suspense>{children}</Suspense>
       </body>
     </html>
