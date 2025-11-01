@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/d3p1/nextjs-torus/compare/v1.1.0...v1.1.1) (2025-11-01)
+
+
+### Bug Fixes
+
+* solve error useSearchParams() should be wrapped in a suspense boundary [[#1](https://github.com/d3p1/nextjs-torus/issues/1)] ([84b2716](https://github.com/d3p1/nextjs-torus/commit/84b27160014922ca6cc17b2f43cce250f8e96c12))
+
 # [1.1.0](https://github.com/d3p1/nextjs-torus/compare/v1.0.0...v1.1.0) (2025-11-01)
 
 
